@@ -1,4 +1,4 @@
-# masterstandup
+# master-standup
 This will be a site where you can master your standup material by submitting jokes and getting them reviewed by other users.
 
 ## Feedback on Jokes
